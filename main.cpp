@@ -22,20 +22,20 @@ void display()
     glLineWidth(3.0f);
     glBegin(GL_LINES);
     glColor3ub(255,255,0);
-    glVertex2f(0.0f, 0.7f);//12
+    glVertex2f(0.0f, 0.7f);
     glVertex2f(0.0f, 0.6f);
 
-    glVertex2f(0.38f, 0.7f);//1
+    glVertex2f(0.38f, 0.7f);
     glVertex2f(0.34f, 0.6f);
 
-    glVertex2f(-0.38f, 0.7f);//11
+    glVertex2f(-0.38f, 0.7f);
     glVertex2f(-0.34f, 0.5f);
 
     glVertex2f(-0.38f, -0.7f);
-    glVertex2f(-0.34f, -0.5f);//7
+    glVertex2f(-0.34f, -0.5f);
 
     glVertex2f(0.7f, 0.48f);
-    glVertex2f(0.6f, 0.32f); //2
+    glVertex2f(0.6f, 0.32f); 
 
     glVertex2f(0.7f, -0.48f);
     glVertex2f(0.6f, -0.35f);

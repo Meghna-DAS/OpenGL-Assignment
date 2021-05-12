@@ -15,5 +15,6 @@ Semester: IV<br>
 Division : A<br>
 Subject: CTIT<br>
 
-# Gallery🤷‍♀️
-![image](https://user-images.githubusercontent.com/55181652/118006639-0d3d6f00-b369-11eb-8131-57bcc12cff69.png)
+## Gallery🤷‍♀️
+![image](https://user-images.githubusercontent.com/55181652/118019032-26005180-b376-11eb-929e-cc3a889694b0.png)
+
